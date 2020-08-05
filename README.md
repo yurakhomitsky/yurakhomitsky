@@ -11,7 +11,7 @@ Hi, My name is Yura, I have hands-on experience in JavaScript, pretty familiar w
 <!-- - 👯 I’m looking to collaborate on [Covid-19 Tracker](https://github.com/theleancoderr/Covid-19India-Tracker-) -->
 
 <li>🔭 I’m currently working on improving programming skills and gaining best coding practices</li>
-<li>🌱 I’m currently learning Angular, the biggest one, planning React :) </li>
+<li>🌱 I’m currently learning Vue and Nuxt, as well as Angular :) </li>
 <li>💬 Ask me about Memes, Tech, Games or whatever :)</li>
 <li>📫 Contact me - <a href="mailto:yura.khomitsky8@gmail.com">yura.khomitsky8@gmail.com</a></li>
 <li>😄 Pronouns: He/Him</li>
