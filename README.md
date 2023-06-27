@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurakhomitskyi/)
 <br/>
 
-I'm Yurii, Welcome to my profile, enjoy here 🙂
+I'm Yurii, Welcome to my profile 🙂
 
 - Favorite Languages: JavaScript, TypeScript, Angular
 - Hobbies:
