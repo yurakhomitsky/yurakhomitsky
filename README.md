@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurakhomitskyi/)
 <br/>
 
-I'm Yurii, Welcome to my profile 🙂
+I'm Yurii a front-end developer, I enjoy building web applications with a modern tech stack
 
 - Favorite Languages: JavaScript, TypeScript, Angular
 - Hobbies:
