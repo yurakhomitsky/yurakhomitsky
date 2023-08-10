@@ -4,15 +4,21 @@ I enjoy building web applications with a modern tech stack
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurakhomitskyi/)
 
-<img width="370" height="200" align="left" src="https://64.media.tumblr.com/a935d7cacf17663f8bd18f49290abc1f/43e72218d5e4fdeb-5e/s1280x1920/4a86eeb2b099cc32f7c1e64663716aaeb364ba1c.gifv"  />
 
-- Hobbies:
-  - Memes✌️
-  - Coding 😬
-  - Reading 🤔
-  - Photos 🤗
-  - Games 🫡 
+<img width="370" height="200" align="left" src="https://github.com/yurakhomitsky/yurakhomitsky/assets/54478076/b9a5e478-179a-4c52-ae75-24935aa463ff"  />
 
+<div>
+  <h4>Hobbies</h3>
+<ul >
+  <li>Memes✌️</li>
+  <li>Coding 😬</li>
+  <li>Reading 🤔</li>
+  <li>Photos 🤗</li>
+  <li>Games 🫡 </li>
+</ul>
+</div>
+
+<br />
 Contact me - <a href="mailto:yura.khomitsky8@gmail.com">yura.khomitsky8@gmail.com</a>
   
 <div align="left">
