@@ -19,6 +19,7 @@ I enjoy building web applications with a modern tech stack
 </div>
 
 <br />
+<br />
 Contact me - <a href="mailto:yura.khomitsky8@gmail.com">yura.khomitsky8@gmail.com</a>
   
 <div align="left">
