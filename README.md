@@ -5,7 +5,7 @@ I enjoy building web applications with a modern tech stack
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yurakhomitskyi/)
 
 
-<img width="370" height="200" align="left" src="https://github.com/yurakhomitsky/yurakhomitsky/assets/54478076/b9a5e478-179a-4c52-ae75-24935aa463ff"  />
+<img width="370" height="200"  src="https://github.com/yurakhomitsky/yurakhomitsky/assets/54478076/b9a5e478-179a-4c52-ae75-24935aa463ff"  />
 
 <div>
   <h4>Hobbies</h3>
